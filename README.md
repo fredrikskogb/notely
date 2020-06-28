@@ -1,1 +1,1 @@
-Editor to create and edit text file made with Electron.
+Editor to create and edit text files, currently being developed in Electron.
